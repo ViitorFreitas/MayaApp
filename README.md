@@ -2,6 +2,8 @@ Maya Water Tracker App
 
 O Aplicativo Maya foi desenvolvido para registrar, incentivar e acompanhar o consumo diário de água dos usuários.
 
+Após a criação e avanço da ideia principal, o desenvolvimento do aplicativo “Maya” foi possível através da IA “Make Figma”, com o propósito de que seja um aplicativo híbrido (cross-platform), permitindo sua execução e bom desempenho tanto em dispositivos Android quanto iOS.
+
 O design original está disponível em:
 https://www.figma.com/design/P3wJasJoNAFcecdJBi8If4/Maya-Water-Tracker-App
 
@@ -18,8 +20,6 @@ npm install
 npm run dev
 
 Tecnologias Utilizadas
-
-Após o desenvolvimento da ideia principal, o aplicativo “Maya” foi desenvolvido através da IA “Make Figma” para que seja um aplicativo híbrido (cross-platform), permitindo sua execução e bom desempenho tanto em dispositivos Android quanto iOS.
 
 React Native (Expo ou CLI, se desejar acrescentar depois)
 JavaScript / TypeScript
