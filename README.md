@@ -1,4 +1,5 @@
-Maya Water Tracker App
+Maya
+Water Tracker App
 
 O Aplicativo Maya foi desenvolvido para registrar, incentivar e acompanhar o consumo diário de água dos usuários.
 
@@ -9,10 +10,11 @@ https://www.figma.com/design/P3wJasJoNAFcecdJBi8If4/Maya-Water-Tracker-App
 
 Descrição:
 
-O Maya Water App permite que os usuários registrem sua ingestão de água ao longo do dia e visualize seu progresso de forma simples e intuitiva.
-E seu objetivo é incentivar uma rotina de hidratação saudável.
+O App Maya permite que os usuários registrem sua ingestão de água ao longo do dia e visualizem seu progresso de forma simples e intuitiva.
+E seu objetivo é incentivar uma rotina de hidratação mais saudável.
 
 Instalação e Execução
+
 1. Instalar dependências
 npm install
 
@@ -29,11 +31,11 @@ Frameworks e libs adicionais usadas no projeto
 Funcionalidades Principais
 
 Registrar a quantidade de água consumida pelo usuário em diferentes momentos do dia;
-Permitir a definição da meta diária e semanal de hidratação;
-Exibir uma barra de progresso comparando consumo com a  meta pré-definida;
-Mostrar o histórico diário e semanal com gráficos de fácil compreensão;
+Permitir a definição da meta diária, semanal e mensal de hidratação;
+Exibir uma barra de progresso comparando o consumo registrado com a  meta pré-definida;
+Mostrar o histórico diário, semanal ou mensal com gráficos de fácil compreensão;
 Enviar lembretes e notificações recorrentes para incentivar o hábito e o consumo de água ao longo do dia;
-Interface simples, clara e fácil de usar.
+Possuir uma Interface simples, clara e fácil de usar.
 
 Estrutura do Projeto
 
