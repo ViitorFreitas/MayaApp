@@ -16,10 +16,10 @@ E seu objetivo é incentivar uma rotina de hidratação mais saudável.
 Instalação e Execução
 
 1. Instalar dependências
-npm install
+`npm install`
 
 2. Executar o projeto
-npm run dev
+`npm run dev`
 
 Tecnologias Utilizadas
 
