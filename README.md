@@ -1,3 +1,55 @@
+Maya Water Tracker App
+
+O Aplicativo Maya foi desenvolvido para registrar, incentivar e acompanhar o consumo diário de água dos usuários.
+
+O design original está disponível em:
+https://www.figma.com/design/P3wJasJoNAFcecdJBi8If4/Maya-Water-Tracker-App
+
+Descrição:
+
+O Maya Water App permite que os usuários registrem sua ingestão de água ao longo do dia e visualize seu progresso de forma simples e intuitiva.
+E seu objetivo é incentivar uma rotina de hidratação saudável.
+
+Instalação e Execução
+1. Instalar dependências
+npm install
+
+2. Executar o projeto
+npm run dev
+
+Tecnologias Utilizadas
+
+Após o desenvolvimento da ideia principal, o aplicativo “Maya” foi desenvolvido através da IA “Make Figma” para que seja um aplicativo híbrido (cross-platform), permitindo sua execução e bom desempenho tanto em dispositivos Android quanto iOS.
+
+React Native (Expo ou CLI, se desejar acrescentar depois)
+JavaScript / TypeScript
+Node.js
+Frameworks e libs adicionais usadas no projeto
+
+Funcionalidades Principais
+
+Registrar a quantidade de água consumida pelo usuário em diferentes momentos do dia;
+Permitir a definição da meta diária e semanal de hidratação;
+Exibir uma barra de progresso comparando consumo com a  meta pré-definida;
+Mostrar o histórico diário e semanal com gráficos de fácil compreensão;
+Enviar lembretes e notificações recorrentes para incentivar o hábito e o consumo de água ao longo do dia;
+Interface simples, clara e fácil de usar.
+
+Estrutura do Projeto
+
+src/ – código-fonte do app
+components/ – componentes reutilizáveis
+screens/ – telas do aplicativo
+assets/ – ícones, imagens e mídias
+styles/ – estilos globais
+
+Próximos Passos
+
+Criar animações de progresso;
+Adicionar de forma funcional as notificações de lembretes de hidratação;
+Vincular à localização dos usuários para recomendações mais acertivas que levem em consideração a temperatura e umidade local;
+Futura inclusão de novos tipos de registro, como Atividades físicas e alimentação saudável.
+
 
   # Maya Water Tracker App
 
